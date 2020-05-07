@@ -1,0 +1,15 @@
+
+public class Person {
+public String FirstName get;set;
+public String LastName get;set;
+public String Email get;set;
+public String Gender get;set;
+public int Id get;set;
+public String Image get;set;
+public String PaymentMethod get;set;
+public String Payment get;set;
+public String Boolean get;set;
+public String Boolean2 get;set;
+public String City get;set;
+};
+export class Person;
